@@ -30,7 +30,11 @@ Console-based "Guess the Number" game to learn basic C# syntax
     This command will build and execute the C# code.
 
 ## Project Structure
+
 guess-the-number-console/
+
 ├── src/
-│   └── Program.cs        # The main C# source code file
+
+│   └── Program.cs  
+      # The main C# source code file
 └── README.md

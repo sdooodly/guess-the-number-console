@@ -33,8 +33,6 @@ Console-based "Guess the Number" game to learn basic C# syntax
 
 guess-the-number-console/
 
-├── src/
-
-│   └── Program.cs  
-      # The main C# source code file
+├── src/   
+│   └── Program.cs      
 └── README.md
